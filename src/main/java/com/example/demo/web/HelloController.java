@@ -11,4 +11,5 @@ package com.example.demo.web;
 public class HelloController {
     String str = "2222";
     int i = 1;
+    Boolean b = false;
 }
