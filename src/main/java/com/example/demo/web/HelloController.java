@@ -11,4 +11,5 @@ package com.example.demo.web;
 public class HelloController {
     String str = "11116";
     String str1 = "111133";
+    String str2 = "111133";
 }
