@@ -10,5 +10,6 @@ package com.example.demo.web;
  */
 public class HelloController {
     String str = "分支111";
+    String str = "分支";
 
 }
