@@ -9,8 +9,6 @@ package com.example.demo.web;
  * @Copyright:Copyright (c) 浙江蘑菇加电子商务有限公司 2017 ~ 2018 版权所有
  */
 public class HelloController {
-    String str = "222266666666666666666666";
-    int i = 1;
-    Boolean b = false;
+    String str = "分支";
 
 }
